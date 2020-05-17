@@ -1,4 +1,4 @@
-# ms-users
+# ms-motes
 
 To start the database
 `mkdir data-mongodb` 
